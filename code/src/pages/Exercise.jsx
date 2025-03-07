@@ -23,7 +23,7 @@ const Exercise = () => {
         method: 'GET',
         url: `https://exercisedb.p.rapidapi.com/exercises/exercise/${id}`,
         headers: {
-          'X-RapidAPI-Key': 'ae40549393msh0c35372c617b281p103ddcjsn0f4a9ee43ff0',
+          'X-RapidAPI-Key': '584eaa887cmshf7e0ffd21d53df7p106565jsnfe48132a6d9b',
           'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
       }
     };
